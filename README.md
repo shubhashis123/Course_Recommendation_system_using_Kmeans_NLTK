@@ -1,0 +1,2 @@
+# Course_Recommendation_system_using_Kmeans_NLTK
+First one has to select a certain number of courses. From the course names I have extracted the keywords using lemmatization and Tf-Idf algorithm. Then these keywords were fitted into a cluster using hard clustering algorithm Kmeans. By getting the centroid of the cluster to which the keywords belonged to we recommeded the courses which have data points(keyword) [resent in that cluster.
